@@ -7,5 +7,5 @@ Scalaz-stream (soon to be called "FS2") is a library that facilitates purely fun
 
 ## Slides & Code
 
-- Slides: https://github.com/adilakhter/scalaupnorth2016-scalaz-stream/blob/master/slides.pdf 
+- Slides: https://github.com/adilakhter/scalaupnorth2016-scalaz-stream/blob/master/slides.pdf. 
 - Code:  https://github.com/adilakhter/scalaitaly-functional-stream-processing.
